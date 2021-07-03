@@ -1,7 +1,7 @@
 # Algorithm
 with java
 
-what I learned
+what I studied
 
 divide and conquer
 
